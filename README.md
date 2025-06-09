@@ -1,6 +1,6 @@
 # ChatgptTest
 
-This repository contains a simple example web page.
+This repository contains a simple example website for artist **Lin Tsanyi**.
 
 ## How to view
 
